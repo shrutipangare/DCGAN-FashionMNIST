@@ -1,6 +1,6 @@
 # DCGAN Fashion-MNIST Generator
 
-A Deep Convolutional Generative Adversarial Network (DCGAN) implementation for generating realistic-looking clothing images using the Fashion-MNIST dataset.
+A Deep Convolutional Generative Adversarial Network (DCGAN) implementation for generating  clothing images using the Fashion-MNIST dataset.
 
 ## DCGAN
 
